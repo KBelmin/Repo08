@@ -1,7 +1,7 @@
 function reusableFunction() {
-    // Write code below this line
-        console.log("Hi Padawan!");
-    // Write code above this line
+  // Write code below this line
+  console.log("Hi Padawan!");
+  // Write code above this line
 }
 
 reusableFunction();
